@@ -1,7 +1,7 @@
 {{- if .Release.IsInstall }}
 
 {{- if .Values.build.enabled }}
-Your EAP XP 5 application is building! To follow the build, run:
+Your EAP XP 6 application is building! To follow the build, run:
 
 $ oc get build -w
 

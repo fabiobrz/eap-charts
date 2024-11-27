@@ -1,3 +1,0 @@
-build:
-  uri: https://github.com/jboss-eap-up-and-running/eap-xp5-getting-started.git
-  mode: bootable-jar

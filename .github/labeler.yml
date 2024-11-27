@@ -4,9 +4,9 @@ examples:
   - examples/**/*
 charts:
   - charts/**/*
-eap-xp5:
-  - charts/eap-xp5/**/*
-  - examples/eap-xp5/**/*
+eap-xp6:
+  - charts/eap-xp6/**/*
+  - examples/eap-xp6/**/*
 documentation:
   - ./README.md
   - charts/**/README.md
